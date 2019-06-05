@@ -52,22 +52,22 @@ In this fully customized form is built removing the default one and you can easi
 
 You can easily made required fields and add more form fields and aslo delete fields.
 
-![](Images/Customized_form_1.PNG)
-![](Images/Customized_form_2.PNG)
+![](images/Customized_form_1.PNG)
+![](images/Customized_form_2.PNG)
 
 ## Admin.py
 
 This is how the admin page look a like and also to check whether all the details of each user stored in database or not.
 
-![](Images/Customized_Admin_Page.PNG)
+![](images/Customized_Admin_Page.PNG)
 
 ## Admin Page View
 
-![](Images/Customized_Admin_Page_Users.PNG)
+![](images/Customized_Admin_Page_Users.PNG)
 
 ## Register Page View
 
-![](Images/Register.PNG)
+![](images/Register.PNG)
 
 
 
